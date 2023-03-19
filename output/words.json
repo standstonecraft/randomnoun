@@ -1,0 +1,958 @@
+[
+  {
+    "jp": "みらい",
+    "en": "future"
+  },
+  {
+    "jp": "げんざい",
+    "en": "now"
+  },
+  {
+    "jp": "けっこん",
+    "en": "marriage"
+  },
+  {
+    "jp": "せいしき",
+    "en": "formality"
+  },
+  {
+    "jp": "ないよう",
+    "en": "content"
+  },
+  {
+    "jp": "じどう",
+    "en": "automatic"
+  },
+  {
+    "jp": "ひみつ",
+    "en": "secret"
+  },
+  {
+    "jp": "どちら",
+    "en": "which direction"
+  },
+  {
+    "jp": "そちら",
+    "en": "that direction"
+  },
+  {
+    "jp": "こちら",
+    "en": "this direction"
+  },
+  {
+    "jp": "きゅう",
+    "en": "nine"
+  },
+  {
+    "jp": "やっつ",
+    "en": "eight"
+  },
+  {
+    "jp": "ななつ",
+    "en": "seven"
+  },
+  {
+    "jp": "むっつ",
+    "en": "six"
+  },
+  {
+    "jp": "いつつ",
+    "en": "five"
+  },
+  {
+    "jp": "よっつ",
+    "en": "four"
+  },
+  {
+    "jp": "みっつ",
+    "en": "three"
+  },
+  {
+    "jp": "ふたつ",
+    "en": "two"
+  },
+  {
+    "jp": "ひとつ",
+    "en": "one"
+  },
+  {
+    "jp": "ひゃく",
+    "en": "hundred"
+  },
+  {
+    "jp": "じゅう",
+    "en": "ten"
+  },
+  {
+    "jp": "いらい",
+    "en": "request"
+  },
+  {
+    "jp": "べんきょう",
+    "en": "study"
+  },
+  {
+    "jp": "ひつよう",
+    "en": "necessity"
+  },
+  {
+    "jp": "じょうほう",
+    "en": "information"
+  },
+  {
+    "jp": "システム",
+    "en": "system"
+  },
+  {
+    "jp": "スポーツ",
+    "en": "sport"
+  },
+  {
+    "jp": "たいいく",
+    "en": "physical education"
+  },
+  {
+    "jp": "れきし",
+    "en": "history"
+  },
+  {
+    "jp": "さんすう",
+    "en": "arithmetic"
+  },
+  {
+    "jp": "おんがく",
+    "en": "music"
+  },
+  {
+    "jp": "オレンジ",
+    "en": "orange"
+  },
+  {
+    "jp": "はいいろ",
+    "en": "grey"
+  },
+  {
+    "jp": "ちゃいろ",
+    "en": "brown"
+  },
+  {
+    "jp": "ピンク",
+    "en": "pink"
+  },
+  {
+    "jp": "むらさき",
+    "en": "purple"
+  },
+  {
+    "jp": "みどり",
+    "en": "green"
+  },
+  {
+    "jp": "きいろ",
+    "en": "yellow"
+  },
+  {
+    "jp": "パソコン",
+    "en": "personal computer"
+  },
+  {
+    "jp": "じしょ",
+    "en": "dictionary"
+  },
+  {
+    "jp": "しんぶん",
+    "en": "newspaper"
+  },
+  {
+    "jp": "てがみ",
+    "en": "letter"
+  },
+  {
+    "jp": "ちょうせんご",
+    "en": "Korean"
+  },
+  {
+    "jp": "ふらんすご",
+    "en": "French"
+  },
+  {
+    "jp": "すぺいんご",
+    "en": "Spanish"
+  },
+  {
+    "jp": "どいつご",
+    "en": "German"
+  },
+  {
+    "jp": "ちゅうごくご",
+    "en": "Chinese"
+  },
+  {
+    "jp": "えいご",
+    "en": "English"
+  },
+  {
+    "jp": "にほんご",
+    "en": "Japanese"
+  },
+  {
+    "jp": "がいこくご",
+    "en": "foreign language"
+  },
+  {
+    "jp": "ローマ字",
+    "en": "Roman characters"
+  },
+  {
+    "jp": "アルファベット",
+    "en": "alphabet"
+  },
+  {
+    "jp": "すうじ",
+    "en": "numbers"
+  },
+  {
+    "jp": "カタカナ",
+    "en": "katakana syllabary characters"
+  },
+  {
+    "jp": "ひらがな",
+    "en": "hiragana syllabary characters"
+  },
+  {
+    "jp": "かんじ",
+    "en": "Chinese character"
+  },
+  {
+    "jp": "じてんしゃ",
+    "en": "undefined"
+  },
+  {
+    "jp": "くるま",
+    "en": "car"
+  },
+  {
+    "jp": "でんしゃ",
+    "en": "train"
+  },
+  {
+    "jp": "とおり",
+    "en": "avenue"
+  },
+  {
+    "jp": "バスてい",
+    "en": "bus"
+  },
+  {
+    "jp": "どうろ",
+    "en": "road"
+  },
+  {
+    "jp": "くうこう",
+    "en": "airport"
+  },
+  {
+    "jp": "ひこうき",
+    "en": "airplane"
+  },
+  {
+    "jp": "てつどう",
+    "en": "railway"
+  },
+  {
+    "jp": "めがね",
+    "en": "glasses"
+  },
+  {
+    "jp": "くつした",
+    "en": "sock"
+  },
+  {
+    "jp": "ベルト",
+    "en": "belt"
+  },
+  {
+    "jp": "チャック",
+    "en": "zipper"
+  },
+  {
+    "jp": "ボタン",
+    "en": "button"
+  },
+  {
+    "jp": "わふく",
+    "en": "Japanese clothing"
+  },
+  {
+    "jp": "きもの",
+    "en": "kimono"
+  },
+  {
+    "jp": "ようふく",
+    "en": "western clothing"
+  },
+  {
+    "jp": "ホッチキス",
+    "en": "stapler"
+  },
+  {
+    "jp": "はさみ",
+    "en": "scissors"
+  },
+  {
+    "jp": "ふうとう",
+    "en": "envelope"
+  },
+  {
+    "jp": "カバー",
+    "en": "book cover"
+  },
+  {
+    "jp": "にっき",
+    "en": "diary"
+  },
+  {
+    "jp": "ノート",
+    "en": "notebook"
+  },
+  {
+    "jp": "じょうぎ",
+    "en": "ruler"
+  },
+  {
+    "jp": "えんぴつけずり",
+    "en": "pencil sharpener"
+  },
+  {
+    "jp": "けしゴム",
+    "en": "eraser"
+  },
+  {
+    "jp": "チョーク",
+    "en": "chalk"
+  },
+  {
+    "jp": "えんぴつ",
+    "en": "pencil"
+  },
+  {
+    "jp": "まんねんひつ",
+    "en": "fountain pen"
+  },
+  {
+    "jp": "ボールペン",
+    "en": "ball"
+  },
+  {
+    "jp": "インク",
+    "en": "ink"
+  },
+  {
+    "jp": "ぶんぼうぐ",
+    "en": "stationery"
+  },
+  {
+    "jp": "ちょうこく",
+    "en": "sculpture"
+  },
+  {
+    "jp": "かばん",
+    "en": "leather bag"
+  },
+  {
+    "jp": "ふくろ",
+    "en": "pocket"
+  },
+  {
+    "jp": "でんき",
+    "en": "electricity"
+  },
+  {
+    "jp": "エスカレーター",
+    "en": "escalator"
+  },
+  {
+    "jp": "エレベーター",
+    "en": "elevator"
+  },
+  {
+    "jp": "げんかん",
+    "en": "entrance"
+  },
+  {
+    "jp": "ふとん",
+    "en": "futon"
+  },
+  {
+    "jp": "とびら",
+    "en": "door panel"
+  },
+  {
+    "jp": "たたみ",
+    "en": "a tatami mat"
+  },
+  {
+    "jp": "つくえ",
+    "en": "desk"
+  },
+  {
+    "jp": "きって",
+    "en": "stamp"
+  },
+  {
+    "jp": "きっぷ",
+    "en": "ticket"
+  },
+  {
+    "jp": "じどうはんばいき",
+    "en": "vending machine"
+  },
+  {
+    "jp": "つりせん",
+    "en": "change"
+  },
+  {
+    "jp": "こぜに",
+    "en": "small change"
+  },
+  {
+    "jp": "こうじょう",
+    "en": "factory"
+  },
+  {
+    "jp": "ホテル",
+    "en": "hotel"
+  },
+  {
+    "jp": "やくしょ",
+    "en": "local government office"
+  },
+  {
+    "jp": "がっこう",
+    "en": "school"
+  },
+  {
+    "jp": "かいぎ",
+    "en": "meeting"
+  },
+  {
+    "jp": "かいしゃ",
+    "en": "company"
+  },
+  {
+    "jp": "けいざい",
+    "en": "economy"
+  },
+  {
+    "jp": "しゃかい",
+    "en": "society"
+  },
+  {
+    "jp": "インチ",
+    "en": "inch"
+  },
+  {
+    "jp": "センチメートル",
+    "en": "centimeter"
+  },
+  {
+    "jp": "グラム",
+    "en": "gram"
+  },
+  {
+    "jp": "リットル",
+    "en": "litre"
+  },
+  {
+    "jp": "メートル",
+    "en": "meter"
+  },
+  {
+    "jp": "なまり",
+    "en": "lead"
+  },
+  {
+    "jp": "けむり",
+    "en": "smoke"
+  },
+  {
+    "jp": "きんぞく",
+    "en": "metal"
+  },
+  {
+    "jp": "くうき",
+    "en": "air"
+  },
+  {
+    "jp": "こおり",
+    "en": "ice"
+  },
+  {
+    "jp": "ちかい",
+    "en": "near"
+  },
+  {
+    "jp": "とおい",
+    "en": "far"
+  },
+  {
+    "jp": "てまえ",
+    "en": "nearer"
+  },
+  {
+    "jp": "ななめ",
+    "en": "diagonal"
+  },
+  {
+    "jp": "むこう",
+    "en": "the other side"
+  },
+  {
+    "jp": "うしろ",
+    "en": "behind"
+  },
+  {
+    "jp": "ひだり",
+    "en": "left"
+  },
+  {
+    "jp": "あそこ",
+    "en": "over there"
+  },
+  {
+    "jp": "みなみ",
+    "en": "south"
+  },
+  {
+    "jp": "ひがし",
+    "en": "east"
+  },
+  {
+    "jp": "あらし",
+    "en": "storm"
+  },
+  {
+    "jp": "たいふう",
+    "en": "typhoon"
+  },
+  {
+    "jp": "かみなり",
+    "en": "thunder"
+  },
+  {
+    "jp": "くもり",
+    "en": "cloudy"
+  },
+  {
+    "jp": "てんき",
+    "en": "weather"
+  },
+  {
+    "jp": "たいよう",
+    "en": "sun"
+  },
+  {
+    "jp": "どようび",
+    "en": "Saturday"
+  },
+  {
+    "jp": "きんようび",
+    "en": "Friday"
+  },
+  {
+    "jp": "もくようび",
+    "en": "Thursday"
+  },
+  {
+    "jp": "すいようび",
+    "en": "Wednesday"
+  },
+  {
+    "jp": "かようび",
+    "en": "Tuesday"
+  },
+  {
+    "jp": "げつようび",
+    "en": "Monday"
+  },
+  {
+    "jp": "にちようび",
+    "en": "Sunday"
+  },
+  {
+    "jp": "いっしゅうかん",
+    "en": "one week"
+  },
+  {
+    "jp": "しゅう",
+    "en": "week"
+  },
+  {
+    "jp": "ようび",
+    "en": "day"
+  },
+  {
+    "jp": "ゆうがた",
+    "en": "evening"
+  },
+  {
+    "jp": "あした",
+    "en": "tomorrow"
+  },
+  {
+    "jp": "きょう",
+    "en": "today"
+  },
+  {
+    "jp": "きのう",
+    "en": "yesterday"
+  },
+  {
+    "jp": "びょう",
+    "en": "second"
+  },
+  {
+    "jp": "こよみ",
+    "en": "calendar"
+  },
+  {
+    "jp": "じかん",
+    "en": "time"
+  },
+  {
+    "jp": "スイカ",
+    "en": "watermelon"
+  },
+  {
+    "jp": "トマト",
+    "en": "tomato"
+  },
+  {
+    "jp": "バナナ",
+    "en": "banana"
+  },
+  {
+    "jp": "ミカン",
+    "en": "mandarin orange"
+  },
+  {
+    "jp": "リンゴ",
+    "en": "apple"
+  },
+  {
+    "jp": "にんじん",
+    "en": "carrot"
+  },
+  {
+    "jp": "だいこん",
+    "en": "Japanese white radish"
+  },
+  {
+    "jp": "くだもの",
+    "en": "fruit for eating"
+  },
+  {
+    "jp": "やさい",
+    "en": "vegetable"
+  },
+  {
+    "jp": "トカゲ",
+    "en": "lizard"
+  },
+  {
+    "jp": "かいがら",
+    "en": "shell"
+  },
+  {
+    "jp": "ミミズ",
+    "en": "earthworm"
+  },
+  {
+    "jp": "ナメクジ",
+    "en": "slug"
+  },
+  {
+    "jp": "カタツムリ",
+    "en": "snail"
+  },
+  {
+    "jp": "ゴキブリ",
+    "en": "cockroach"
+  },
+  {
+    "jp": "ホタル",
+    "en": "firefly"
+  },
+  {
+    "jp": "バッタ",
+    "en": "grasshopper"
+  },
+  {
+    "jp": "トンボ",
+    "en": "dragonfly"
+  },
+  {
+    "jp": "ちょう",
+    "en": "butterfly"
+  },
+  {
+    "jp": "さんま",
+    "en": "pike"
+  },
+  {
+    "jp": "かつお",
+    "en": "bonito"
+  },
+  {
+    "jp": "まぐろ",
+    "en": "tuna"
+  },
+  {
+    "jp": "いわし",
+    "en": "sardine"
+  },
+  {
+    "jp": "さかな",
+    "en": "fish"
+  },
+  {
+    "jp": "からす",
+    "en": "crow"
+  },
+  {
+    "jp": "すずめ",
+    "en": "sparrow"
+  },
+  {
+    "jp": "にわとり",
+    "en": "chicken"
+  },
+  {
+    "jp": "キリン",
+    "en": "giraffe"
+  },
+  {
+    "jp": "かえる",
+    "en": "frog"
+  },
+  {
+    "jp": "りゅう",
+    "en": "dragon"
+  },
+  {
+    "jp": "うさぎ",
+    "en": "rabbit"
+  },
+  {
+    "jp": "オオカミ",
+    "en": "wolf"
+  },
+  {
+    "jp": "ねずみ",
+    "en": "mouse"
+  },
+  {
+    "jp": "ひつじ",
+    "en": "sheep"
+  },
+  {
+    "jp": "チーター",
+    "en": "cheetah"
+  },
+  {
+    "jp": "どうぶつ",
+    "en": "animal"
+  },
+  {
+    "jp": "ばけもの",
+    "en": "monster"
+  },
+  {
+    "jp": "いきもの",
+    "en": "living creatures"
+  },
+  {
+    "jp": "いとこ",
+    "en": "cousin"
+  },
+  {
+    "jp": "しまい",
+    "en": "sisters"
+  },
+  {
+    "jp": "きょうだい",
+    "en": "brothers"
+  },
+  {
+    "jp": "いもうと",
+    "en": "younger sister"
+  },
+  {
+    "jp": "おとうと",
+    "en": "younger brother"
+  },
+  {
+    "jp": "おっと",
+    "en": "husband"
+  },
+  {
+    "jp": "こども",
+    "en": "children"
+  },
+  {
+    "jp": "りょうしん",
+    "en": "parents"
+  },
+  {
+    "jp": "かぞく",
+    "en": "family"
+  },
+  {
+    "jp": "びょうき",
+    "en": "illness"
+  },
+  {
+    "jp": "せなか",
+    "en": "back"
+  },
+  {
+    "jp": "こころ",
+    "en": "heart"
+  },
+  {
+    "jp": "きんにく",
+    "en": "muscle"
+  },
+  {
+    "jp": "かんぞう",
+    "en": "liver"
+  },
+  {
+    "jp": "おなか",
+    "en": "abdomen"
+  },
+  {
+    "jp": "てのひら",
+    "en": "palm of hand"
+  },
+  {
+    "jp": "てくび",
+    "en": "wrist"
+  },
+  {
+    "jp": "おなか",
+    "en": "stomach"
+  },
+  {
+    "jp": "くちびる",
+    "en": "lips"
+  },
+  {
+    "jp": "あたま",
+    "en": "head"
+  },
+  {
+    "jp": "かかと",
+    "en": "heel"
+  },
+  {
+    "jp": "エンジニア",
+    "en": "engineer"
+  },
+  {
+    "jp": "かしゅ",
+    "en": "singer"
+  },
+  {
+    "jp": "きょうし",
+    "en": "academic"
+  },
+  {
+    "jp": "せんせい",
+    "en": "teacher"
+  },
+  {
+    "jp": "けんちくか",
+    "en": "architect"
+  },
+  {
+    "jp": "へいし",
+    "en": "soldier"
+  },
+  {
+    "jp": "けいさつかん",
+    "en": "police officer"
+  },
+  {
+    "jp": "しょうぼうし",
+    "en": "firefighter"
+  },
+  {
+    "jp": "べんごし",
+    "en": "lawyer"
+  },
+  {
+    "jp": "せいじか",
+    "en": "politician"
+  },
+  {
+    "jp": "しかい",
+    "en": "dentist"
+  },
+  {
+    "jp": "かんごふ",
+    "en": "female nurse"
+  },
+  {
+    "jp": "かんごし",
+    "en": "nurse"
+  },
+  {
+    "jp": "いしゃ",
+    "en": "doctor"
+  },
+  {
+    "jp": "おとこのこ",
+    "en": "boy"
+  },
+  {
+    "jp": "おんなのこ",
+    "en": "girl"
+  },
+  {
+    "jp": "わたし",
+    "en": "I"
+  },
+  {
+    "jp": "わかもの",
+    "en": "youth"
+  },
+  {
+    "jp": "あかちゃん ",
+    "en": "baby"
+  },
+  {
+    "jp": "おんなのひと",
+    "en": "woman"
+  },
+  {
+    "jp": "おんな",
+    "en": "female"
+  },
+  {
+    "jp": "おとこのひと",
+    "en": "man"
+  },
+  {
+    "jp": "おとこ",
+    "en": "male"
+  },
+  {
+    "jp": "じんるい",
+    "en": "humanity"
+  },
+  {
+    "jp": "にんげん",
+    "en": "human"
+  }
+]

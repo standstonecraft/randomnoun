@@ -1,0 +1,239 @@
+future
+now
+marriage
+formality
+content
+automatic
+secret
+which direction
+that direction
+this direction
+nine
+eight
+seven
+six
+five
+four
+three
+two
+one
+hundred
+ten
+request
+study
+necessity
+information
+system
+sport
+physical education
+history
+arithmetic
+music
+orange
+grey
+brown
+pink
+purple
+green
+yellow
+personal computer
+dictionary
+newspaper
+letter
+Korean
+French
+Spanish
+German
+Chinese
+English
+Japanese
+foreign language
+Roman characters
+alphabet
+numbers
+katakana syllabary characters
+hiragana syllabary characters
+Chinese character
+undefined
+car
+train
+avenue
+bus
+road
+airport
+airplane
+railway
+glasses
+sock
+belt
+zipper
+button
+Japanese clothing
+kimono
+western clothing
+stapler
+scissors
+envelope
+book cover
+diary
+notebook
+ruler
+pencil sharpener
+eraser
+chalk
+pencil
+fountain pen
+ball
+ink
+stationery
+sculpture
+leather bag
+pocket
+electricity
+escalator
+elevator
+entrance
+futon
+door panel
+a tatami mat
+desk
+stamp
+ticket
+vending machine
+change
+small change
+factory
+hotel
+local government office
+school
+meeting
+company
+economy
+society
+inch
+centimeter
+gram
+litre
+meter
+lead
+smoke
+metal
+air
+ice
+near
+far
+nearer
+diagonal
+the other side
+behind
+left
+over there
+south
+east
+storm
+typhoon
+thunder
+cloudy
+weather
+sun
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+Sunday
+one week
+week
+day
+evening
+tomorrow
+today
+yesterday
+second
+calendar
+time
+watermelon
+tomato
+banana
+mandarin orange
+apple
+carrot
+Japanese white radish
+fruit for eating
+vegetable
+lizard
+shell
+earthworm
+slug
+snail
+cockroach
+firefly
+grasshopper
+dragonfly
+butterfly
+pike
+bonito
+tuna
+sardine
+fish
+crow
+sparrow
+chicken
+giraffe
+frog
+dragon
+rabbit
+wolf
+mouse
+sheep
+cheetah
+animal
+monster
+living creatures
+cousin
+sisters
+brothers
+younger sister
+younger brother
+husband
+children
+parents
+family
+illness
+back
+heart
+muscle
+liver
+abdomen
+palm of hand
+wrist
+stomach
+lips
+head
+heel
+engineer
+singer
+academic
+teacher
+architect
+soldier
+police officer
+firefighter
+lawyer
+politician
+dentist
+female nurse
+nurse
+doctor
+boy
+girl
+I
+youth
+baby
+woman
+female
+man
+male
+humanity
+human
